@@ -1,8 +1,0 @@
-python-dotenv
-openai
-tiktoken
-pypdf2
-chromadb
-llama-index 
-llama-index-vector-stores-chroma
-llama-index-agent-openai
